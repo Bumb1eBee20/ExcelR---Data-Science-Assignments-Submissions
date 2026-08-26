@@ -13,6 +13,5 @@ The assignments cover practical concepts in **Python, Statistics, Data Analysis,
 | **Name** | Bachupati Dimpu Narasimha Sai |
 | **ExcelR Username** | Dimpu_B208541 |
 | **Email** | Dimpu.B2085@gmail.com |
-| **Mobile** | 9177041001 |
 | **Program** | Data Science |
 | **Repository** | ExcelR Data Science Assignments |
